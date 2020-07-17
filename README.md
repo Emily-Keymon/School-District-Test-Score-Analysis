@@ -1,7 +1,5 @@
 # PyCity Schools Analysis
 
-Your final report should include each of the following:
-
 ### District Summary
 
 * Create a high level snapshot (in table form) of the district's key metrics, including:
