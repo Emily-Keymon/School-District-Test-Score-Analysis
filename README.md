@@ -98,6 +98,14 @@ Observable trends based on data:
 * Large schools had lower reading and maths scores. Also, large schools had a significantly lower overall passing %.
 * In all cities, the average reading scores are higher than the average math scores.
 
+## District summary
+![district_summary](https://user-images.githubusercontent.com/64673015/102021750-a8dd9b80-3d47-11eb-907d-706cd77f3810.PNG)
+
+## School summary
+![school_summary](https://user-images.githubusercontent.com/64673015/102021756-ba26a800-3d47-11eb-84a2-9dbb49aad013.PNG)
+
+
+
 
 
 
