@@ -3,6 +3,8 @@ The goal of this project was to analyze the standardized test results for a scho
 
 ---
 ## Data source
+* https://github.com/Emily-Keymon/School-District-Test-Score-Analysis/blob/master/PyCitySchools/schools_complete.csv
+* https://github.com/Emily-Keymon/School-District-Test-Score-Analysis/blob/master/PyCitySchools/students_complete.csv
 
 
 ### District Summary
