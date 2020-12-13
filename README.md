@@ -2,9 +2,19 @@
 The goal of this project was to analyze the standardized test results for a school district.  Using the math and reading scores, aggregate the data and showcase obvious trends in school performance.
 
 ---
-## Data source
+## Datasets
 * https://github.com/Emily-Keymon/School-District-Test-Score-Analysis/blob/master/PyCitySchools/schools_complete.csv
 * https://github.com/Emily-Keymon/School-District-Test-Score-Analysis/blob/master/PyCitySchools/students_complete.csv
+
+---
+## Tools Used
+* Jupyter Notebook
+* Python - Pandas
+
+---
+## Tasks
+### Data exploration
+1.  
 
 
 ### District Summary
