@@ -14,7 +14,23 @@ The goal of this project was to analyze the standardized test results for a scho
 ---
 ## Tasks
 ### Data exploration
+1.  Imported school data and student data .csv files as individual dataframes.
+2.  Merged the individual dataframes into a combined dataframe based on school name.
+
+## District summary analysis
+1.  Calculated total number of schools in the district.
+2.  Calculated the total number of students in the district.
+3.  Calculated the total budget for the schools.
+4.  Calculated the average math test score of students.
+5.  Calculated the average reading test score of students.
+6.  Calculated the percentage of students that had a passing math score.
+7.  Calculated the percentage of students that had a passing reading score.
+8.  Calculated the overall percentage of students that had a passing math and reading score.
+9.  Output calculated values to a district summary dataframe.
+
+## School summary analysis
 1.  
+ 
 
 ---
 ## Results
