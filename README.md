@@ -104,6 +104,44 @@ Observable trends based on data:
 ## School summary
 ![school_summary](https://user-images.githubusercontent.com/64673015/102021756-ba26a800-3d47-11eb-84a2-9dbb49aad013.PNG)
 
+## Top 5 performing schools
+![top_schools](https://user-images.githubusercontent.com/64673015/102021795-1be71200-3d48-11eb-9754-5f4c55663eb3.PNG)
+
+## Bottom 5 performing schools
+![bottom_schools](https://user-images.githubusercontent.com/64673015/102021809-31f4d280-3d48-11eb-84cb-235e9226c1b9.PNG)
+
+## Math scores by grade
+![math_scores_by_grade](https://user-images.githubusercontent.com/64673015/102021821-45a03900-3d48-11eb-8e68-5d2be3914ef8.PNG)
+
+## Reading scores by grade
+![reading_scores_by_grade](https://user-images.githubusercontent.com/64673015/102021833-551f8200-3d48-11eb-91df-5a4aecb2c5ee.PNG)
+
+## Scores by school spending
+![scores_by_school_spending](https://user-images.githubusercontent.com/64673015/102021850-69637f00-3d48-11eb-9006-978b4b289e01.PNG)
+
+## Scores by school spending by range
+![scores_by_school_spending_bins](https://user-images.githubusercontent.com/64673015/102021871-87c97a80-3d48-11eb-8537-5b12b5edcee4.PNG)
+
+## Scores by school size
+![scores_by_school_size](https://user-images.githubusercontent.com/64673015/102021878-9adc4a80-3d48-11eb-9537-f3e5ce5992d0.PNG)
+
+## Scores by school size by range
+![scores_by_school_size_bins](https://user-images.githubusercontent.com/64673015/102021885-af204780-3d48-11eb-9b07-0e3d93696516.PNG)
+
+## Scores by school type
+![scores_by_school_type](https://user-images.githubusercontent.com/64673015/102021899-cf500680-3d48-11eb-9f35-960603f32c34.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
