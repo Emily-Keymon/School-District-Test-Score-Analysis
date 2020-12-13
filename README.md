@@ -48,7 +48,24 @@ The goal of this project was to analyze the standardized test results for a scho
 2.  Output summary data for top bottom performing schools in the top performing schools data frame.  
 
 ## Math scores by grade analysis
-1.  
+1.  Created data series of scores by grade levels using conditionals (9th, 10th, 11th, 12th).
+2.  Grouped each school by name.
+3.  Combined 9th, 10th, 11th and 12th into single dataframe.
+4.  Output calculated values to the math scores data frame.
+
+## Reading scores by grade analysis
+1.  Created data series of scores by grade levels using conditionals (9th, 10th, 11th, 12th).
+2.  Grouped each school by name.
+3.  Combined 9th, 10th, 11th and 12th into single dataframe.
+4.  Output calculated values to the math scores data frame.
+
+## Scores by school spending analysis
+1.  Set up bins for spending - <584", 585-629, 630-644, 645-675.
+2.  Created a copy of school summary since it contains "Per Student Budget" data.
+3.  Categorized spending based on bins.
+
+
+
  
 
 ---
