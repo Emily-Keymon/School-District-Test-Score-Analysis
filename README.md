@@ -82,19 +82,13 @@ The goal of this project was to analyze the standardized test results for a scho
 9.  Output calculated values for each size range to the per student budget summary data frame.
 
 ## Scores by school type analysis
-2.  Created a copy of school summary since it contains "Per Student Budget" data.
-4.  Calculated the average math test score for all students in the schools within each type range.
-5.  Calculated the average reading test score for all students in the schools within each type range.
-6.  Calculated the percentage of all students in the schools within each type range that have a passing math test score.
-7.  Calculated the percentage of all students in the schools within each type range that have a passing reading test score.
-8.  Calculated the overall percentage of students in the schools within each type range that are passing math and reading.
-9.  Output calculated values for each type range to the per student budget summary data frame.
-  
-
-
-
-
- 
+1.  Created a copy of school summary since it contains "Per Student Budget" data.
+2.  Calculated the average math test score for all students in the schools within each type category.
+3.  Calculated the average reading test score for all students in the schools within each type category.
+4.  Calculated the percentage of all students in the schools within each type category that have a passing math test score.
+5.  Calculated the percentage of all students in the schools within each type category that have a passing reading test score.
+6.  Calculated the overall percentage of students in the schools within each type category that are passing both math and reading.
+7.  Output calculated values for each type category to the school type summary data frame. 
 
 ---
 ## Results
