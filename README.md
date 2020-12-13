@@ -63,6 +63,16 @@ The goal of this project was to analyze the standardized test results for a scho
 1.  Set up bins for spending - <584", 585-629, 630-644, 645-675.
 2.  Created a copy of school summary since it contains "Per Student Budget" data.
 3.  Categorized spending based on bins.
+4.  Calculated the average math test score for all students in the schools within each spending range.
+5.  Calculated the average reading test score for all students in the schools within each spending range.
+6.  Calculated the percentage of all students in the schools within each spending range that have a passing math test score.
+7.  Calculated the percentage of all students in the schools within each spending range that have a passing reading test score.
+8.  Calculated the overall percentage of students in the schools within each spending range that are passing math and reading.
+9.  Output calculated values for each spending range to the per student budget summary data frame.
+
+## Scores by school size analysis
+1.  
+
 
 
 
@@ -74,66 +84,9 @@ Observable trends based on data:
 * The top 5 performing schools are all charter schools and the bottom 5 are all district schools.
 * Spending had little to no effect on overall passing %.
 * Large schools had lower reading and maths scores. Also, large schools had a significantly lower overall passing %.
-* In all cities, the average reading scores are higher than the average math scores.¶
+* In all cities, the average reading scores are higher than the average math scores.
 
 
-
-### School Summary
-
-* Create an overview table that summarizes key metrics about each school, including:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
-
-### Top Performing Schools (By % Overall Passing)
-
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
-
-### Bottom Performing Schools (By % Overall Passing)
-
-* Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
-
-### Math Scores by Grade\*\*
-
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-### Reading Scores by Grade
-
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-### Scores by School Spending
-
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
-
-### Scores by School Size
-
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
-
-### Scores by School Type
-
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
 
