@@ -60,7 +60,7 @@ The goal of this project was to analyze the standardized test results for a scho
 4.  Output calculated values to the math scores data frame.
 
 ## Scores by school spending analysis
-1.  Set up bins for spending - <584", 585-629, 630-644, 645-675.
+1.  Set up bins for spending - <584, 585-629, 630-644, 645-675.
 2.  Created a copy of school summary since it contains "Per Student Budget" data.
 3.  Categorized spending based on bins.
 4.  Calculated the average math test score for all students in the schools within each spending range.
@@ -71,7 +71,25 @@ The goal of this project was to analyze the standardized test results for a scho
 9.  Output calculated values for each spending range to the per student budget summary data frame.
 
 ## Scores by school size analysis
-1.  
+1.  Set up bins for school size - Small (<1000), Medium (1000-2000), Large (2000-5000).
+2.  Created a copy of school summary since it contains "Per Student Budget" data.
+3.  Categorized size based on bins.
+4.  Calculated the average math test score for all students in the schools within each size range.
+5.  Calculated the average reading test score for all students in the schools within each size range.
+6.  Calculated the percentage of all students in the schools within each size range that have a passing math test score.
+7.  Calculated the percentage of all students in the schools within each size range that have a passing reading test score.
+8.  Calculated the overall percentage of students in the schools within each size range that are passing math and reading.
+9.  Output calculated values for each size range to the per student budget summary data frame.
+
+## Scores by school type analysis
+2.  Created a copy of school summary since it contains "Per Student Budget" data.
+4.  Calculated the average math test score for all students in the schools within each type range.
+5.  Calculated the average reading test score for all students in the schools within each type range.
+6.  Calculated the percentage of all students in the schools within each type range that have a passing math test score.
+7.  Calculated the percentage of all students in the schools within each type range that have a passing reading test score.
+8.  Calculated the overall percentage of students in the schools within each type range that are passing math and reading.
+9.  Output calculated values for each type range to the per student budget summary data frame.
+  
 
 
 
