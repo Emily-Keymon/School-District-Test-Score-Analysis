@@ -1,4 +1,9 @@
-# PyCity Schools Analysis
+# School District Test Score Analysis
+The goal of this project was to analyze the standardized test results for a school district.  Using the math and reading scores, aggregate the data and showcase obvious trends in school performance.
+
+---
+## Data source
+
 
 ### District Summary
 
