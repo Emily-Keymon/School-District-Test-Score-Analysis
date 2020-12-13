@@ -16,6 +16,16 @@ The goal of this project was to analyze the standardized test results for a scho
 ### Data exploration
 1.  
 
+---
+## Results
+Observable trends based on data:
+* The top 5 performing schools are all charter schools and the bottom 5 are all district schools.
+* Spending had little to no effect on overall passing %.
+* Large schools had lower reading and maths scores. Also, large schools had a significantly lower overall passing %.
+* In all cities, the average reading scores are higher than the average math scores.¶
+
+
+
 
 ### District Summary
 
