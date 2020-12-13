@@ -29,6 +29,25 @@ The goal of this project was to analyze the standardized test results for a scho
 9.  Output calculated values to a district summary dataframe.
 
 ## School summary analysis
+1.  Determined school types using school data to create a dataframe.
+2.  Calculated total student count per school.
+3.  Calculated total school budget and per capita spending per school.
+4.  Calculated average test scores for reading per school.
+5.  Calculated average test scores for math per school.
+6.  Calculated the percentage of all students in each school that have a passing math test score.
+7.  Calculate the percentage of all students in each school that have a passing reading test score.
+8.  Calculated overall percentage of students in each school that are passing either the math and reading tests.
+9.  Output calculated values to a school summary dataframe.
+
+## Top performing schools analysis
+1.  Sorted school summary data frame by best overall passing percentage.
+2.  Output summary data for top five performing schools in the top performing schools data frame.
+
+## Bottom performing schools analysis
+1.  Sorted school summary data frame by worst overall passing percentage.
+2.  Output summary data for top bottom performing schools in the top performing schools data frame.  
+
+## Math scores by grade analysis
 1.  
  
 
@@ -41,19 +60,6 @@ Observable trends based on data:
 * In all cities, the average reading scores are higher than the average math scores.¶
 
 
-
-
-### District Summary
-
-* Create a high level snapshot (in table form) of the district's key metrics, including:
-  * Total Schools
-  * Total Students
-  * Total Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 ### School Summary
 
