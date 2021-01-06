@@ -17,7 +17,7 @@ The goal of this project was to analyze the standardized test results for a scho
 1.  Imported school data and student data .csv files as individual dataframes.
 2.  Merged the individual dataframes into a combined dataframe based on school name.
 
-## District summary analysis
+### District summary analysis
 1.  Calculated total number of schools in the district.
 2.  Calculated the total number of students in the district.
 3.  Calculated the total budget for the schools.
@@ -28,7 +28,7 @@ The goal of this project was to analyze the standardized test results for a scho
 8.  Calculated the overall percentage of students that had a passing math and reading score.
 9.  Output calculated values to a district summary dataframe.
 
-## School summary analysis
+### School summary analysis
 1.  Determined school types using school data to create a dataframe.
 2.  Calculated total student count per school.
 3.  Calculated total school budget and per capita spending per school.
@@ -39,27 +39,27 @@ The goal of this project was to analyze the standardized test results for a scho
 8.  Calculated overall percentage of students in each school that are passing either the math and reading tests.
 9.  Output calculated values to a school summary dataframe.
 
-## Top performing schools analysis
+### Top performing schools analysis
 1.  Sorted school summary data frame by best overall passing percentage.
 2.  Output summary data for top five performing schools in the top performing schools data frame.
 
-## Bottom performing schools analysis
+### Bottom performing schools analysis
 1.  Sorted school summary data frame by worst overall passing percentage.
 2.  Output summary data for top bottom performing schools in the top performing schools data frame.  
 
-## Math scores by grade analysis
+### Math scores by grade analysis
 1.  Created data series of scores by grade levels using conditionals (9th, 10th, 11th, 12th).
 2.  Grouped each school by name.
 3.  Combined 9th, 10th, 11th and 12th into single dataframe.
 4.  Output calculated values to the math scores data frame.
 
-## Reading scores by grade analysis
+### Reading scores by grade analysis
 1.  Created data series of scores by grade levels using conditionals (9th, 10th, 11th, 12th).
 2.  Grouped each school by name.
 3.  Combined 9th, 10th, 11th and 12th into single dataframe.
 4.  Output calculated values to the math scores data frame.
 
-## Scores by school spending analysis
+### Scores by school spending analysis
 1.  Set up bins for spending - <584, 585-629, 630-644, 645-675.
 2.  Created a copy of school summary since it contains "Per Student Budget" data.
 3.  Categorized spending based on bins.
@@ -70,7 +70,7 @@ The goal of this project was to analyze the standardized test results for a scho
 8.  Calculated the overall percentage of students in the schools within each spending range that are passing math and reading.
 9.  Output calculated values for each spending range to the per student budget summary data frame.
 
-## Scores by school size analysis
+### Scores by school size analysis
 1.  Set up bins for school size - Small (<1000), Medium (1000-2000), Large (2000-5000).
 2.  Created a copy of school summary since it contains "Per Student Budget" data.
 3.  Categorized size based on bins.
@@ -81,7 +81,7 @@ The goal of this project was to analyze the standardized test results for a scho
 8.  Calculated the overall percentage of students in the schools within each size range that are passing math and reading.
 9.  Output calculated values for each size range to the per student budget summary data frame.
 
-## Scores by school type analysis
+### Scores by school type analysis
 1.  Created a copy of school summary since it contains "Per Student Budget" data.
 2.  Calculated the average math test score for all students in the schools within each type category.
 3.  Calculated the average reading test score for all students in the schools within each type category.
